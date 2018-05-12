@@ -1,0 +1,38 @@
+_repo: Den-vidtudraabte-Bes-ttelse-udi-Thisted_34213
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Árni Magnússon
+    aliases:
+    - Magnússon, Árne
+    - Magnussen, Arne
+    - Magnússon, Árni
+    - Magnusson, Arni
+    birthdate: 1663
+    deathdate: 1730
+    gutenberg_agent_id: '36877'
+    url: http://www.gutenberg.org/2009/agents/36877
+    wikipedia: http://en.wikipedia.org/wiki/%C3%81rni_Magn%C3%BAsson
+  editor:
+    agent_name: Ipsen, Alfred
+    birthdate: 1852
+    deathdate: 1922
+    gutenberg_agent_id: '36878'
+    url: http://www.gutenberg.org/2009/agents/36878
+description: ''
+gutenberg_issued: '2010-11-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34213'
+language: da
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BF'
+- !lcsh 'Trials (Witchcraft) -- Denmark'
+title: Kort og sandfærdig Beretning om den vidtudraabte Besættelse udi Thisted
+url: http://www.gutenberg.org/ebooks/34213
